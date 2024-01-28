@@ -1,0 +1,21 @@
+# ninja log v5
+1	116	1706399649081788249	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-mkdir	5a170f7cb6df712b
+1	116	1706399649081788249	/Users/natsumi/CLionProjects/Quiz-3-Catch-Template/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-mkdir	5a170f7cb6df712b
+116	39784	1706399688749670709	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-download	cd4c3de6b7e197eb
+116	39784	1706399688749670709	/Users/natsumi/CLionProjects/Quiz-3-Catch-Template/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-download	cd4c3de6b7e197eb
+39785	39960	0	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update	242c948e4256be90
+39785	39960	0	/Users/natsumi/CLionProjects/Quiz-3-Catch-Template/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update	242c948e4256be90
+39960	40060	1706399689026487650	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch	5cd3c83f33bdd014
+39960	40060	1706399689026487650	/Users/natsumi/CLionProjects/Quiz-3-Catch-Template/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch	5cd3c83f33bdd014
+40060	40162	1706399689127800206	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure	f2986561bed8e9de
+40060	40162	1706399689127800206	/Users/natsumi/CLionProjects/Quiz-3-Catch-Template/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure	f2986561bed8e9de
+40162	40261	1706399689227535585	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build	64de3d921f80e389
+40162	40261	1706399689227535585	/Users/natsumi/CLionProjects/Quiz-3-Catch-Template/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build	64de3d921f80e389
+40261	40359	1706399689325902550	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install	42874a8c4dfb1a33
+40261	40359	1706399689325902550	/Users/natsumi/CLionProjects/Quiz-3-Catch-Template/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install	42874a8c4dfb1a33
+40360	40473	1706399689437856864	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test	2861ad5410257115
+40360	40473	1706399689437856864	/Users/natsumi/CLionProjects/Quiz-3-Catch-Template/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test	2861ad5410257115
+40473	40608	1706399689574656651	CMakeFiles/catch2-populate-complete	a7749b2e0027af89
+40473	40608	1706399689574656651	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-done	a7749b2e0027af89
+40473	40608	1706399689574656651	/Users/natsumi/CLionProjects/Quiz-3-Catch-Template/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/catch2-populate-complete	a7749b2e0027af89
+40473	40608	1706399689574656651	/Users/natsumi/CLionProjects/Quiz-3-Catch-Template/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-done	a7749b2e0027af89
